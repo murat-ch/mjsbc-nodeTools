@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a17dbab-1523-4d24-b6f9-429a30790e53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kkNQdDYN88S17qT6qHRbkDeJs7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
@@ -12,5 +64,117 @@
         <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a17dbab-1523-4d24-b6f9-429a30790e53" name="Default Changelist" comment="" />
+      <created>1606240614982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606240614982</updated>
+      <workItem from="1606240616304" duration="1253000" />
+      <workItem from="1606324939293" duration="382000" />
+      <workItem from="1606325359472" duration="2525000" />
+      <workItem from="1606833316826" duration="236000" />
+      <workItem from="1606833602579" duration="3911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1606240813872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606240813872" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1606240845667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606240845667" />
+    <state x="745" y="225" key="Github.UntrackedFilesDialog" timestamp="1606240859250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="745" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606240859250" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1606841774166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606841774166" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1606841774166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606841774166" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1606841774166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606841774166" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1606841774166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606841774166" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1606839929622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606839929622" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1606839929622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606839929622" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1606839929621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606839929621" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1606839929622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606839929622" />
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom" timestamp="1606839929624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606839929624" />
+    <state width="1899" height="348" key="GridCell.Tab.2.center" timestamp="1606839929623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.center/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606839929623" />
+    <state width="1899" height="348" key="GridCell.Tab.2.left" timestamp="1606839929622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.left/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606839929622" />
+    <state width="1899" height="348" key="GridCell.Tab.2.right" timestamp="1606839929623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.right/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606839929623" />
+    <state width="1899" height="348" key="GridCell.Tab.3.bottom" timestamp="1606839929625">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606839929625" />
+    <state width="1899" height="348" key="GridCell.Tab.3.center" timestamp="1606839929624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.center/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606839929624" />
+    <state width="1899" height="348" key="GridCell.Tab.3.left" timestamp="1606839929624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.left/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606839929624" />
+    <state width="1899" height="348" key="GridCell.Tab.3.right" timestamp="1606839929624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.right/0.0.1920.1040/-1366.306.1366.728@0.0.1920.1040" timestamp="1606839929624" />
   </component>
 </project>
