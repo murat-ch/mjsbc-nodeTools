@@ -13,6 +13,6 @@
   "author": "murat",
   "license": "ISC",
   "bin": {
-    "node-ls": "index.js"
+    "node-ls": "./index.js"
   }
 }
